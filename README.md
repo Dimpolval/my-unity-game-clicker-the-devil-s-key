@@ -13,7 +13,7 @@
 - Windows
 
 # Ссылка на билд
-https://drive.google.com/file/d/14cMmSrg4T5ANCuxyz1sJEE1_Lgi2gCQg/view?usp=sharing
+https://clck.ru/3Vt5qZ
 
 # Скриншоты
 ![Экран меню](https://github.com/Dimpolval/my-unity-game-clicker-the-devil-s-key/blob/main/Assets/Screenshots/Menu.png)
